@@ -7,6 +7,7 @@
 - [ **蓝思Lexile** ](https://hub.lexile.com/find-a-book/search)
 - [ **APKCombo** ](https://apkcombo.com/zh/)
 - [ **英语阅读-新闻材料news in levels** ](https://www.newsinlevels.com/)
+- [ **英语阅读-新闻材料news in levels** ](https://www.newsinlevels.com/)
 
 
 
